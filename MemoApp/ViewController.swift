@@ -6,6 +6,7 @@
 //
 
 //テスト用のコメント
+//テスト用のコメント2
 import UIKit
 
 class ViewController: UIViewController,UITextViewDelegate {
